@@ -2,7 +2,7 @@
 ![Preview](https://github.com/MaduSales/Hairstyle-Studio-Landing-Page/assets/166547195/7b589166-1668-4993-bb23-29f6e79e8e50)
 
 
-Projeto com HTML e CSS de uma landing page de um estúdio de cabeleireiro e barbearia
+Projeto com HTML CSS, e JavaScript de uma landing page de um estúdio de cabeleireiro e barbearia
 
 Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
 
